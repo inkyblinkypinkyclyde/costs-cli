@@ -1,5 +1,5 @@
-from mortgageCalculator import *
-from taxCalculator import *
+from mortgage_calculator import *
+from tax_calculator import *
 from extra_outgoings import *
 
 if __name__ == "__main__":
